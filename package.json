@@ -1,0 +1,15 @@
+{
+  "name": "neurocheck",
+  "version": "1.0.0",
+  "description": "Лендинг проверки качества интернета",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["internet", "speedtest", "express", "landing"],
+  "author": "ООО \"Нейролия\"",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
